@@ -1,0 +1,32 @@
+{
+    "1": [
+        {
+            "name": "The Witcher 3: Wild Hunt",
+            "genre": "RPG",
+            "release_date": "2015-05-19"
+        },
+        {
+            "name": "Cyberpunk 2077",
+            "genre": "Action RPG",
+            "release_date": "2020-12-10"
+        }
+    ],
+    "8158714321": [
+        {
+            "name": "Red Dead Redemption 2",
+            "genre": "Action-adventure",
+            "release_date": "2018-10-26"
+        },
+        {
+            "name": "The Legend of Zelda: Breath of the Wild",
+            "genre": "Action-adventure",
+            "release_date": "2017-03-03"
+        },
+        {
+            "name": "God of War (2018)",
+            "genre": "Action",
+            "release_date": "2018-04-20"
+        }
+    ],
+    "886635512": []
+}
