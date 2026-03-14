@@ -1,0 +1,218 @@
+2026-03-07 19:25:43,535 | INFO | __main__ | Bot is starting...
+2026-03-07 19:25:44,060 | INFO | __main__ | Commands registered successfully
+2026-03-07 19:25:44,060 | INFO | aiogram.dispatcher | Start polling
+2026-03-07 19:25:44,109 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-07 19:26:06,795 | INFO | __main__ | User 886635512 requested full game list
+2026-03-07 19:26:06,795 | INFO | data | Reading games for user 886635512
+2026-03-07 19:26:06,795 | INFO | data | Reading all data from file
+2026-03-07 19:26:06,796 | INFO | data | Data successfully loaded
+2026-03-07 19:26:06,796 | INFO | data | User 886635512 has 2 games
+2026-03-07 19:26:06,962 | INFO | aiogram.event | Update id=702991365 is handled. Duration 168 ms by bot id=8207144654
+2026-03-07 19:26:09,945 | INFO | __main__ | User 886635512 requested games list
+2026-03-07 19:26:09,946 | INFO | data | Reading games for user 886635512
+2026-03-07 19:26:09,946 | INFO | data | Reading all data from file
+2026-03-07 19:26:09,947 | INFO | data | Data successfully loaded
+2026-03-07 19:26:09,947 | INFO | data | User 886635512 has 2 games
+2026-03-07 19:26:09,947 | INFO | keyboards | Creating games keyboard. Games count: 2
+2026-03-07 19:26:09,947 | INFO | keyboards | Games keyboard successfully created
+2026-03-07 19:26:10,021 | INFO | aiogram.event | Update id=702991366 is handled. Duration 75 ms by bot id=8207144654
+2026-03-07 19:26:15,478 | INFO | __main__ | User 886635512 opened game: Read Dead Redemption 2
+2026-03-07 19:26:15,581 | INFO | aiogram.event | Update id=702991367 is handled. Duration 103 ms by bot id=8207144654
+2026-03-07 19:26:19,107 | INFO | __main__ | User 886635512 opened game: CS2
+2026-03-07 19:26:19,257 | INFO | aiogram.event | Update id=702991368 is handled. Duration 149 ms by bot id=8207144654
+2026-03-07 19:28:50,594 | INFO | __main__ | Bot is starting...
+2026-03-07 19:28:51,001 | INFO | __main__ | Commands registered successfully
+2026-03-07 19:28:51,001 | INFO | aiogram.dispatcher | Start polling
+2026-03-07 19:28:51,037 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-07 19:29:09,528 | WARNING | __main__ | Unknown command from user 886635512: /games
+2026-03-07 19:29:09,680 | INFO | aiogram.event | Update id=702991369 is handled. Duration 153 ms by bot id=8207144654
+2026-03-07 19:29:59,882 | INFO | __main__ | Bot is starting...
+2026-03-07 19:30:00,271 | INFO | __main__ | Commands registered successfully
+2026-03-07 19:30:00,271 | INFO | aiogram.dispatcher | Start polling
+2026-03-07 19:30:00,307 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-07 19:31:05,644 | INFO | __main__ | User 886635512 used /start
+2026-03-07 19:31:05,871 | INFO | aiogram.event | Update id=702991370 is handled. Duration 227 ms by bot id=8207144654
+2026-03-07 19:31:08,038 | INFO | __main__ | User 886635512 requested games list
+2026-03-07 19:31:08,038 | INFO | data | Reading games for user 886635512
+2026-03-07 19:31:08,038 | INFO | data | Reading all data from file
+2026-03-07 19:31:08,039 | INFO | data | Data successfully loaded
+2026-03-07 19:31:08,039 | INFO | data | User 886635512 has 2 games
+2026-03-07 19:31:08,039 | INFO | keyboards | Creating games keyboard. Games count: 2
+2026-03-07 19:31:08,040 | INFO | keyboards | Games keyboard successfully created
+2026-03-07 19:31:08,099 | INFO | aiogram.event | Update id=702991371 is handled. Duration 61 ms by bot id=8207144654
+2026-03-07 19:31:09,861 | INFO | __main__ | User 886635512 opened game: Read Dead Redemption 2
+2026-03-07 19:31:09,980 | INFO | aiogram.event | Update id=702991372 is handled. Duration 118 ms by bot id=8207144654
+2026-03-07 19:33:55,355 | INFO | __main__ | Bot is starting...
+2026-03-07 19:33:55,779 | INFO | __main__ | Commands registered successfully
+2026-03-07 19:33:55,780 | INFO | aiogram.dispatcher | Start polling
+2026-03-07 19:33:55,823 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-07 19:34:04,350 | INFO | __main__ | User 886635512 used /start
+2026-03-07 19:34:04,539 | INFO | aiogram.event | Update id=702991373 is handled. Duration 189 ms by bot id=8207144654
+2026-03-07 19:34:13,414 | INFO | __main__ | User 886635512 requested full game list
+2026-03-07 19:34:13,414 | INFO | data | Reading games for user 886635512
+2026-03-07 19:34:13,414 | INFO | data | Reading all data from file
+2026-03-07 19:34:13,415 | INFO | data | Data successfully loaded
+2026-03-07 19:34:13,415 | INFO | data | User 886635512 has 2 games
+2026-03-07 19:34:13,481 | INFO | aiogram.event | Update id=702991374 is handled. Duration 68 ms by bot id=8207144654
+2026-03-07 19:34:17,241 | INFO | __main__ | User 886635512 started genre search
+2026-03-07 19:34:17,317 | INFO | aiogram.event | Update id=702991375 is handled. Duration 75 ms by bot id=8207144654
+2026-03-07 19:34:26,195 | INFO | __main__ | User 886635512 searching games by genre: shooter
+2026-03-07 19:34:26,195 | INFO | data | Reading games for user 886635512
+2026-03-07 19:34:26,195 | INFO | data | Reading all data from file
+2026-03-07 19:34:26,196 | INFO | data | Data successfully loaded
+2026-03-07 19:34:26,197 | INFO | data | User 886635512 has 2 games
+2026-03-07 19:34:26,197 | INFO | __main__ | Found 1 games for genre shooter
+2026-03-07 19:34:26,266 | INFO | aiogram.event | Update id=702991376 is handled. Duration 72 ms by bot id=8207144654
+2026-03-07 19:40:00,895 | INFO | __main__ | User 886635512 started adding a game
+2026-03-07 19:40:00,958 | INFO | aiogram.event | Update id=702991377 is handled. Duration 63 ms by bot id=8207144654
+2026-03-07 19:40:22,097 | INFO | __main__ | Game name received: God of  War
+2026-03-07 19:40:22,170 | INFO | aiogram.event | Update id=702991378 is handled. Duration 73 ms by bot id=8207144654
+2026-03-07 19:40:35,540 | INFO | __main__ | Game genre received: Action
+2026-03-07 19:40:35,613 | INFO | aiogram.event | Update id=702991379 is handled. Duration 73 ms by bot id=8207144654
+2026-03-07 19:40:40,247 | INFO | __main__ | Release year received: 2018
+2026-03-07 19:40:40,247 | INFO | data | Adding game for user 886635512: God of  War
+2026-03-07 19:40:40,247 | INFO | data | Reading all data from file
+2026-03-07 19:40:40,248 | INFO | data | Data successfully loaded
+2026-03-07 19:40:40,249 | INFO | data | Game 'God of  War' successfully added for user 886635512
+2026-03-07 19:40:40,249 | INFO | __main__ | Game added for user 886635512: God of  War
+2026-03-07 19:40:40,316 | INFO | aiogram.event | Update id=702991380 is handled. Duration 69 ms by bot id=8207144654
+2026-03-08 19:36:12,547 | INFO | __main__ | Bot is starting...
+2026-03-08 19:36:12,970 | INFO | __main__ | Commands registered successfully
+2026-03-08 19:36:12,971 | INFO | aiogram.dispatcher | Start polling
+2026-03-08 19:36:13,021 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-08 19:36:22,936 | INFO | __main__ | User 886635512 used /start
+2026-03-08 19:36:23,108 | INFO | aiogram.event | Update id=702991381 is handled. Duration 172 ms by bot id=8207144654
+2026-03-08 20:00:50,433 | INFO | __main__ | Bot is starting...
+2026-03-08 20:00:50,833 | INFO | __main__ | Commands registered successfully
+2026-03-08 20:00:50,834 | INFO | aiogram.dispatcher | Start polling
+2026-03-08 20:00:50,880 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-08 20:01:32,627 | INFO | __main__ | User 886635512 requested clear games
+2026-03-08 20:01:32,793 | INFO | aiogram.event | Update id=702991382 is handled. Duration 165 ms by bot id=8207144654
+2026-03-08 20:01:35,114 | INFO | __main__ | User 886635512 canceled clearing games
+2026-03-08 20:01:35,357 | INFO | aiogram.event | Update id=702991383 is handled. Duration 243 ms by bot id=8207144654
+2026-03-09 18:07:23,609 | INFO | __main__ | Bot is starting...
+2026-03-09 18:07:24,631 | INFO | __main__ | Commands registered successfully
+2026-03-09 18:07:24,631 | INFO | aiogram.dispatcher | Start polling
+2026-03-09 18:07:24,684 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-09 18:07:32,958 | INFO | __main__ | User 886635512 used /start
+2026-03-09 18:07:33,149 | INFO | aiogram.event | Update id=702991384 is handled. Duration 193 ms by bot id=8207144654
+2026-03-09 18:07:57,555 | INFO | __main__ | User 886635512 requested full game list
+2026-03-09 18:07:57,555 | INFO | data | Reading games for user 886635512
+2026-03-09 18:07:57,555 | INFO | data | Reading all data from file
+2026-03-09 18:07:57,557 | INFO | data | Data successfully loaded
+2026-03-09 18:07:57,557 | INFO | data | User 886635512 has 3 games
+2026-03-09 18:07:57,692 | INFO | aiogram.event | Update id=702991385 is handled. Duration 137 ms by bot id=8207144654
+2026-03-09 18:08:00,258 | INFO | __main__ | User 886635512 started adding a game
+2026-03-09 18:08:00,329 | INFO | aiogram.event | Update id=702991386 is handled. Duration 70 ms by bot id=8207144654
+2026-03-09 18:08:06,254 | INFO | __main__ | Game name received: laslld
+2026-03-09 18:08:06,375 | INFO | aiogram.event | Update id=702991387 is handled. Duration 121 ms by bot id=8207144654
+2026-03-09 18:08:09,018 | INFO | __main__ | Game genre received: ppa
+2026-03-09 18:08:09,078 | INFO | aiogram.event | Update id=702991388 is handled. Duration 60 ms by bot id=8207144654
+2026-03-09 18:08:12,113 | INFO | __main__ | Release year received: opo
+2026-03-09 18:08:12,114 | INFO | data | Adding game for user 886635512: laslld
+2026-03-09 18:08:12,115 | INFO | data | Reading all data from file
+2026-03-09 18:08:12,116 | INFO | data | Data successfully loaded
+2026-03-09 18:08:12,118 | INFO | data | Game 'laslld' successfully added for user 886635512
+2026-03-09 18:08:12,118 | INFO | __main__ | Game added for user 886635512: laslld
+2026-03-09 18:08:12,279 | INFO | aiogram.event | Update id=702991389 is handled. Duration 166 ms by bot id=8207144654
+2026-03-09 18:08:20,604 | INFO | __main__ | User 886635512 requested full game list
+2026-03-09 18:08:20,604 | INFO | data | Reading games for user 886635512
+2026-03-09 18:08:20,604 | INFO | data | Reading all data from file
+2026-03-09 18:08:20,605 | INFO | data | Data successfully loaded
+2026-03-09 18:08:20,605 | INFO | data | User 886635512 has 4 games
+2026-03-09 18:08:20,670 | INFO | aiogram.event | Update id=702991390 is handled. Duration 67 ms by bot id=8207144654
+2026-03-09 18:08:28,315 | INFO | aiogram.event | Update id=702991391 is handled. Duration 88 ms by bot id=8207144654
+2026-03-09 18:08:30,927 | INFO | aiogram.event | Update id=702991392 is handled. Duration 71 ms by bot id=8207144654
+2026-03-09 18:08:39,722 | INFO | __main__ | User 886635512 trying to delete game: laslld
+2026-03-09 18:08:39,723 | INFO | data | Attempting to delete game 'laslld' for user 886635512
+2026-03-09 18:08:39,723 | INFO | data | Reading all data from file
+2026-03-09 18:08:39,724 | INFO | data | Data successfully loaded
+2026-03-09 18:08:39,725 | INFO | data | Game 'laslld' successfully deleted for user 886635512
+2026-03-09 18:08:39,725 | INFO | __main__ | Game deleted: laslld
+2026-03-09 18:08:39,797 | INFO | aiogram.event | Update id=702991393 is handled. Duration 75 ms by bot id=8207144654
+2026-03-09 18:08:47,402 | INFO | __main__ | User 886635512 started genre search
+2026-03-09 18:08:47,489 | INFO | aiogram.event | Update id=702991394 is handled. Duration 86 ms by bot id=8207144654
+2026-03-09 18:08:51,323 | INFO | __main__ | User 886635512 searching games by genre: action
+2026-03-09 18:08:51,323 | INFO | data | Reading games for user 886635512
+2026-03-09 18:08:51,324 | INFO | data | Reading all data from file
+2026-03-09 18:08:51,324 | INFO | data | Data successfully loaded
+2026-03-09 18:08:51,324 | INFO | data | User 886635512 has 3 games
+2026-03-09 18:08:51,325 | INFO | __main__ | Found 1 games for genre action
+2026-03-09 18:08:51,399 | INFO | aiogram.event | Update id=702991395 is handled. Duration 78 ms by bot id=8207144654
+2026-03-09 18:08:55,061 | INFO | __main__ | User 886635512 requested clear games
+2026-03-09 18:08:55,121 | INFO | aiogram.event | Update id=702991396 is handled. Duration 60 ms by bot id=8207144654
+2026-03-09 18:08:55,840 | INFO | __main__ | User 886635512 confirmed clearing games
+2026-03-09 18:08:55,841 | INFO | data | Clearing all games for user 886635512
+2026-03-09 18:08:55,841 | INFO | data | Reading all data from file
+2026-03-09 18:08:55,843 | INFO | data | Data successfully loaded
+2026-03-09 18:08:55,846 | INFO | data | All games cleared for user 886635512
+2026-03-09 18:08:55,987 | INFO | aiogram.event | Update id=702991397 is handled. Duration 147 ms by bot id=8207144654
+2026-03-09 18:08:58,703 | INFO | __main__ | User 886635512 requested full game list
+2026-03-09 18:08:58,703 | INFO | data | Reading games for user 886635512
+2026-03-09 18:08:58,703 | INFO | data | Reading all data from file
+2026-03-09 18:08:58,704 | INFO | data | Data successfully loaded
+2026-03-09 18:08:58,704 | INFO | data | User 886635512 has 0 games
+2026-03-09 18:08:58,777 | INFO | aiogram.event | Update id=702991398 is handled. Duration 75 ms by bot id=8207144654
+2026-03-09 19:44:34,764 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-03-09 19:44:34,765 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8207144654)
+2026-03-09 19:44:45,904 | INFO | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8207144654)
+2026-03-14 19:44:14,318 | INFO | __main__ | Bot is starting...
+2026-03-14 19:44:15,183 | INFO | __main__ | Commands registered successfully
+2026-03-14 19:44:15,184 | INFO | aiogram.dispatcher | Start polling
+2026-03-14 19:44:15,231 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-14 19:44:15,291 | INFO | __main__ | User 886635512 used /start
+2026-03-14 19:44:15,527 | INFO | aiogram.event | Update id=702991399 is handled. Duration 238 ms by bot id=8207144654
+2026-03-14 19:44:23,342 | INFO | __main__ | User 886635512 started adding a game
+2026-03-14 19:44:23,405 | INFO | aiogram.event | Update id=702991400 is handled. Duration 63 ms by bot id=8207144654
+2026-03-14 19:44:34,262 | INFO | __main__ | Game name received: God of War
+2026-03-14 19:44:34,328 | INFO | aiogram.event | Update id=702991401 is handled. Duration 65 ms by bot id=8207144654
+2026-03-14 19:44:38,547 | INFO | __main__ | Game genre received: Action
+2026-03-14 19:44:38,610 | INFO | aiogram.event | Update id=702991402 is handled. Duration 63 ms by bot id=8207144654
+2026-03-14 19:44:40,883 | INFO | __main__ | Release year received: 2018
+2026-03-14 19:44:40,883 | INFO | data | Adding game for user 886635512: God of War
+2026-03-14 19:44:40,884 | INFO | data | Reading all data from file
+2026-03-14 19:44:40,884 | INFO | data | Data successfully loaded
+2026-03-14 19:44:40,885 | INFO | data | Game 'God of War' successfully added for user 886635512
+2026-03-14 19:44:40,885 | INFO | __main__ | Game added for user 886635512: God of War
+2026-03-14 19:44:40,957 | INFO | aiogram.event | Update id=702991403 is handled. Duration 74 ms by bot id=8207144654
+2026-03-14 19:47:02,057 | INFO | __main__ | User 886635512 requested full game list
+2026-03-14 19:47:02,057 | INFO | data | Reading games for user 886635512
+2026-03-14 19:47:02,057 | INFO | data | Reading all data from file
+2026-03-14 19:47:02,058 | INFO | data | Data successfully loaded
+2026-03-14 19:47:02,058 | INFO | data | User 886635512 has 3 games
+2026-03-14 19:47:04,318 | INFO | aiogram.event | Update id=702991404 is handled. Duration 2261 ms by bot id=8207144654
+2026-03-14 19:47:21,988 | INFO | __main__ | User 886635512 requested clear games
+2026-03-14 19:47:22,067 | INFO | aiogram.event | Update id=702991405 is handled. Duration 78 ms by bot id=8207144654
+2026-03-14 19:47:22,992 | INFO | __main__ | User 886635512 confirmed clearing games
+2026-03-14 19:47:22,992 | INFO | data | Clearing all games for user 886635512
+2026-03-14 19:47:22,992 | INFO | data | Reading all data from file
+2026-03-14 19:47:22,993 | INFO | data | Data successfully loaded
+2026-03-14 19:47:22,994 | INFO | data | All games cleared for user 886635512
+2026-03-14 19:47:23,119 | INFO | aiogram.event | Update id=702991406 is handled. Duration 126 ms by bot id=8207144654
+2026-03-14 19:48:02,357 | INFO | __main__ | User 886635512 used /start
+2026-03-14 19:48:02,434 | INFO | aiogram.event | Update id=702991407 is handled. Duration 76 ms by bot id=8207144654
+2026-03-14 19:56:33,437 | INFO | __main__ | Bot is starting...
+2026-03-14 19:56:33,918 | INFO | __main__ | Commands registered successfully
+2026-03-14 19:56:33,918 | INFO | aiogram.dispatcher | Start polling
+2026-03-14 19:56:33,969 | INFO | aiogram.dispatcher | Run polling for bot @super_goi_bot id=8207144654 - 'GamesBot'
+2026-03-14 19:56:34,016 | INFO | __main__ | User 886635512 used /start
+2026-03-14 19:56:34,017 | INFO | __main__ | User 886635512 used /start
+2026-03-14 19:56:34,018 | INFO | __main__ | User 886635512 used /start
+2026-03-14 19:56:34,018 | INFO | __main__ | User 886635512 used /start
+2026-03-14 19:56:34,151 | INFO | aiogram.event | Update id=702991410 is handled. Duration 133 ms by bot id=8207144654
+2026-03-14 19:56:34,164 | INFO | aiogram.event | Update id=702991408 is handled. Duration 147 ms by bot id=8207144654
+2026-03-14 19:56:34,190 | INFO | aiogram.event | Update id=702991411 is handled. Duration 172 ms by bot id=8207144654
+2026-03-14 19:56:34,216 | INFO | aiogram.event | Update id=702991409 is handled. Duration 199 ms by bot id=8207144654
+2026-03-14 19:56:40,416 | INFO | __main__ | User 886635512 started adding a game
+2026-03-14 19:56:40,474 | INFO | aiogram.event | Update id=702991412 is handled. Duration 59 ms by bot id=8207144654
+2026-03-14 19:56:45,514 | INFO | __main__ | Game name received: GOW
+2026-03-14 19:56:45,609 | INFO | aiogram.event | Update id=702991413 is handled. Duration 94 ms by bot id=8207144654
+2026-03-14 19:56:51,794 | INFO | __main__ | Game genre received: Action
+2026-03-14 19:56:51,980 | INFO | aiogram.event | Update id=702991414 is handled. Duration 185 ms by bot id=8207144654
+2026-03-14 19:56:57,391 | INFO | __main__ | Release year received: 2018
+2026-03-14 19:56:57,391 | INFO | data | Adding game for user 886635512: GOW
+2026-03-14 19:56:57,391 | INFO | data | Reading all data from file
+2026-03-14 19:56:57,392 | INFO | data | Data successfully loaded
+2026-03-14 19:56:57,392 | INFO | data | Game 'GOW' successfully added for user 886635512
+2026-03-14 19:56:57,393 | INFO | __main__ | Game added for user 886635512: GOW
+2026-03-14 19:56:57,468 | INFO | aiogram.event | Update id=702991415 is handled. Duration 77 ms by bot id=8207144654
